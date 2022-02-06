@@ -44,6 +44,9 @@ details {
 body .gist .gist-data {
   border-bottom: none;
   border-radius: 0;
+  padding-right: 10px;
+  padding-top:80px;
+  padding-left: 10px;
   background-color: #FAF9F6;
 }
 
